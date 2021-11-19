@@ -1,17 +1,13 @@
-# FolderSystem
-The FolderSystem program is designed to replicate/mock the file explorer/finder programs designed with Windows and MacOS repectively.
+# Folder-System
+Grade 12 Data Structures Assignment
 
-The program utilizes many components of data structures and algorithms (mainly sorting). The program utilizes linked lists, queues and arraylists to create custom folder and file objects in a hierarchical tree structure. 
+Mock folder system created using Java with fully functioning GUI  
 
-# Functionality 
-- Search for a file or folder by its corresponding name 
-- Create a file or folder in the user's current directory
-- Delete files or folders by name 
-- Importing and exporting the FolderSystem from and to a .txt file respectively
-- Sorting files and folders alphabetically in the user's current directory 
+Program utilizes linked lists, queues and array list to create customized folder and file objects. Functionality of the folder system allows user to edit pre-existing folders by adding, removing, organizing, searching, saving and alphabetically sorting files and folders. Additionally, user can import folder system from pre-existing text file.
 
-Hierarchical Search
-![](README-IMAGES/Gif1.gif)
+Hiearchial Structure: 
+<img src="README-IMAGES/Exemplar1.gif">
 
-Editing (adding and removing inclusive) files and folders
-![](README-IMAGES/Gif2.gif)
+
+Editing: 
+<img src="README-IMAGES/Exemplar2.gif">
